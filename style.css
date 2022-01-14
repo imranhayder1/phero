@@ -27,6 +27,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+.banner-right img{
+    border: 3px solid #22bedd;
+}
 .banner-title{
     font-size: 60px;
     white-space: nowrap;
